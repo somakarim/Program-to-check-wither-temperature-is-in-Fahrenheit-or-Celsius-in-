@@ -1,4 +1,4 @@
-# Program-to-check-wither-temperature-is-in-Fahrenheit-or-Celsius-in-
+# Program-to-check-wither-temperature-is-in-Fahrenheit-or-Celsius-in-python
 temp=input('Enter Temperature:')
 if ("F" in temp):
 print("Temperature Entered is in Fahrenheit.")
